@@ -1,3 +1,26 @@
+To clone and run my app you need to follow following steps.
+
+1. git clone https://github.com/Rajatb631/django_helloworld.git
+
+-- Above command will download complete code for the hello world app.--
+
+2. Create a new project in Pycharm with any name.
+
+3. Write following command in pycharm/project terminal
+
+pip install django
+
+-- Now your project has all dependencies which are needed--
+
+4. Copy all the files which are downloded from the first step into the created pycharm project.
+
+5. Write following command in pycharm/project terminal to run the project.
+
+python manage.py runserver
+
+
+
+Following are the steps followed by me to create first app.
 --Installing Django in Pycharm Environment--
 1. pip install django
 
